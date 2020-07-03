@@ -1,6 +1,12 @@
 # AnnaKudina_infra
 AnnaKudina Infra repository
 
+#Task 6
+
+testapp_IP = 84.201.133.154
+testapp_port = 9292
+
+#Task 5
 how to connect to someinternalhost in a single command - use jumpping
 ssh -J anmikha2@130.193.49.31 anmikha2@10.130.0.28
 
