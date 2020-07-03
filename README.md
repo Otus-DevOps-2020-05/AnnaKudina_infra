@@ -1,7 +1,7 @@
 # AnnaKudina_infra
 AnnaKudina Infra repository
 
-how to connect to someinternalhost in a single command - через jumpping
+how to connect to someinternalhost in a single command - use jumpping
 ssh -J anmikha2@130.193.49.31 anmikha2@10.130.0.28
 
 ssh someinternalhost from the local console of the working device, to connect using the someinternalhost alias - add it to~/. ssh/config
