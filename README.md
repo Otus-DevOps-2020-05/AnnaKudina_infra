@@ -1,6 +1,11 @@
 # AnnaKudina_infra
 AnnaKudina Infra repository
 
+#Task 7
+The created template is parameterized.
+Create template immutable.json
+
+
 #Task 6
 
 testapp_IP = 84.201.133.154
