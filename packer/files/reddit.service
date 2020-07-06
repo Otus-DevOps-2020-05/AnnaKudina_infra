@@ -1,0 +1,12 @@
+[Unit]
+Description=Puma HTTP Server
+After=network.target
+Requires=mongod.service
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/puma
+Restart=always
+
+[Install]
+WantedBy=multi-user.target" > /etc/systemd/system/puma.service
