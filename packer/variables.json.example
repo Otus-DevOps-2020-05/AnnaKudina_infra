@@ -1,5 +1,5 @@
 {
-"u_service_account_key_file" : "C:/Users/anmikha2/secrets/key.json",
+"u_service_account_key_file" : "/files/key.json",
 "u_folder_id": "temp", 
 "u_os_image_id": "ubuntu-1604-lts", 
 "u_zone": "ru-central1-a",
